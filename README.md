@@ -1,7 +1,7 @@
 # Forecasting Future Currency Prices using Time-Series Analysis and Linear Regression
 
 This Python-written project utilizes Time Series analysis, along with a Linear Regression model, to forecast the price of the Japanese Yen vs. the US Dollar.  ARMA, ARIMA, and GARCH forecasting models included, as well as decomposition using the Hodrick-Prescott filter.  In-Sample and Out-of-Sample performance metrics used to evaluate Linear Regression model.
-![yen_dollar](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2020-03-10T091108Z_1_DV1_RTRLXPP_2_LYNXPACKAGER.JPG?itok=CeKUF1u7.png)
+![yen_dollar](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2020-03-10T091108Z_1_DV1_RTRLXPP_2_LYNXPACKAGER.JPG?itok=CeKUF1u7)
 
 # Time-Series Forecasting:
 My dataset looked like the following (contains Yen price related data from 1990-2019):
